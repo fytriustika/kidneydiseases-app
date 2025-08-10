@@ -1,4 +1,4 @@
-# Project Narrative: Chronic Kidney Disease (CKD) Prediction
+# Chronic Kidney Disease (CKD) Prediction
 
 ## 1. Project Overview
 
